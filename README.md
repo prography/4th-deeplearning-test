@@ -36,7 +36,7 @@ Image Classification with own dataset
 
 
 ### models.py
-models.py 에는 train.py에서 사용할 모델이 포함되어 있도록 작성해주세요. (train.py 에서 import해서 사용)
+models.py 에는 train.py에서 사용할 모델이 포함되어 있도록 작성해주세요. (train.py 에서 import해서 사용)  
 프레임워크(tensorflow, pytorch, keras 등)에서 기본적으로 구현되어 있는 모델은 사용 불가합니다  
 오픈소스를 사용하는 것은 가능합니다  
 

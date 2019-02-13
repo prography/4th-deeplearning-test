@@ -14,6 +14,10 @@ Image Classification with own dataset
 (압축 포맷은 .zip, .tar, .tar.gz 의 3가지로 사용)  
 
 
+**pccho9108@gmail.com 으로 제출해 주시면 됩니다.**  
+**양식을 지켜주시지 않는 경우에 불이익이 발생할 수 있습니다.**
+
+
 ## Guide
 **Pytorch 사용을 권장합니다**
 

@@ -7,14 +7,14 @@ Image Classification with own dataset
 주어진 데이터셋으로  Classification 모델을 구축하는 것이 목적이에요 !!  
 아래의 가이드를 만족하는 train.py , test.py, models.py 를 작성해주세요.  
 
-**제출물 : train.py , test.py, models.py, mymodel.pth(or .ph)**
+**결과물 : train.py , test.py, models.py, mymodel.pth(or .ph)**
 
-제출물의 이름은 위와 동일하게 제출해주세요.  
-위의 4가지 항목을 압축하여 '지원자이름.zip' 형태로 압축하여 제출해주세요.  
-(압축 포맷은 .zip, .tar, .tar.gz 의 3가지로 사용)  
+결과물의 이름은 위와 동일하게 해주세요.  
 
+위의 결과물이 포함된 Github Repository 주소를 메일로 송부해주시면 됩니다.  
+모델파일은 README를 통하여 구글드라이브나 드랍박스 다운받을 수 있는 링크를 표기해주세요.  
 
-**pccho9108@gmail.com 으로 제출해 주시면 됩니다.**  
+pccho9108@gmail.com 으로 메일 보내주시면 됩니다.(메일 제목은 Prography4_지원자이름_제출일 로 맞춰주세요)  
 **양식을 지켜주시지 않는 경우에 불이익이 발생할 수 있습니다.**
 
 
@@ -41,8 +41,8 @@ Image Classification with own dataset
 
 ### models.py
 models.py 에는 train.py에서 사용할 모델이 포함되어 있도록 작성해주세요. (train.py 에서 import해서 사용)  
-프레임워크(tensorflow, pytorch, keras 등)에서 기본적으로 구현되어 있는 모델은 사용 불가합니다  
-오픈소스를 사용하는 것은 가능합니다  
+프레임워크(tensorflow, pytorch, keras 등)에서 기본적으로 구현되어 있는 모델은 사용 불가합니다 (ex: torchvision.models.VGG) 
+오픈소스를 사용하는 것은 가능합니다.  
 
 
 ### model.pth (or model.ph)

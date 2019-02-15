@@ -53,7 +53,11 @@ models.py 에는 train.py에서 사용할 모델이 포함되어 있도록 작�
 하단 구글 드라이브 링크를 통해 데이터셋을 다운로드 받아주세요 !  
 <pre><code> https://drive.google.com/open?id=1gMRZ4nhxuIo2Ub0lPzBDu1OMXQPZTfQp </code></pre>
 
-
 ## Rules.
 **지원자가 많아지게 되면, 정확도를 기준으로 오름차순으로 선발이 될 수 있습니다**   
 **정확도는 보내주신 코드를 그대로 실행하여 산출할 예정입니다.**
+
+## Help
+
+조성만 : 010-3101-0814
+장원범 : 010-3793-7352

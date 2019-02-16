@@ -1,4 +1,3 @@
-
 # Prography 4th Deep Learning Test
 Image Classification with own dataset
 
@@ -14,9 +13,9 @@ Image Classification with own dataset
 결과물은 지원서에 제출한 Github 주소에 올려주시면 됩니다.
 모델파일은 README를 통하여 구글드라이브나 드랍박스 다운받을 수 있는 링크를 표기해주세요.  
 
-**목요일 자정 이전의 커밋까지만 결과물이 인정됩니다.**
-**Repository 이름은 -(하이픈) 으로 연결해주세요**
-**형식을 지켜주시지 않는 경우에 불이익이 발생할 수 있습니다.**
+**목요일 자정 이전의 커밋까지만 결과물이 인정됩니다.**  
+**Repository 이름은 -(하이픈) 으로 연결해주세요**  
+**형식을 지켜주시지 않는 경우에 불이익이 발생할 수 있습니다.**  
 
 
 ## Guide
@@ -42,7 +41,7 @@ Image Classification with own dataset
 
 ### models.py
 models.py 에는 train.py에서 사용할 모델이 포함되어 있도록 작성해주세요. (train.py 에서 import해서 사용)  
-프레임워크(tensorflow, pytorch, keras 등)에서 기본적으로 구현되어 있는 모델은 사용 불가합니다 (ex: torchvision.models.VGG) 
+프레임워크(tensorflow, pytorch, keras 등)에서 기본적으로 구현되어 있는 모델은 사용 불가합니다 (ex: torchvision.models.VGG)  
 오픈소스를 사용하는 것은 가능합니다.  
 
 
@@ -54,11 +53,9 @@ models.py 에는 train.py에서 사용할 모델이 포함되어 있도록 작�
 하단 구글 드라이브 링크를 통해 데이터셋을 다운로드 받아주세요 !  
 <pre><code> https://drive.google.com/open?id=1gMRZ4nhxuIo2Ub0lPzBDu1OMXQPZTfQp </code></pre>
 
-## Rules.
-**위의 사전 과제는 지원자분들의 실력파악을 위함입니다. 사전 과제로 합격/불합격이 결정되지는 않습니다.**
-
 
 ## Help
+**위의 사전 과제는 지원자분들의 실력파악을 위함입니다. 사전 과제로 합격/불합격이 결정되지는 않습니다.**
 궁금하신 사항은 아래 연락처로 편하게 문의주세요 :)
 사전과제에 관한 직접적인 질문은 받지 않습니다.
 

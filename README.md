@@ -3,19 +3,22 @@ Image Classification with own dataset
 
 
 ## How to do ?
-주어진 데이터셋으로  Classification 모델을 구축하는 것이 목적이에요 !!  
+주어진 데이터셋으로  Classification 모델을 구축하는 것이 목적입니다. 
 아래의 가이드를 만족하는 train.py , test.py, models.py 를 작성해주세요.  
 
 **결과물 : train.py , test.py, models.py, mymodel.pth(or .ph)**
 
 결과물의 이름은 위와 동일하게 해주세요.  
 
-결과물은 지원서에 제출한 Github 주소에 올려주시면 됩니다.
+결과물은 지원서에 제출한 Github 주소에 올려주시면 됩니다.  
 모델파일은 README를 통하여 구글드라이브나 드랍박스 다운받을 수 있는 링크를 표기해주세요.  
 
-**목요일 자정 이전의 커밋까지만 결과물이 인정됩니다.**  
 **Repository 이름은 -(하이픈) 으로 연결해주세요**  
 **형식을 지켜주시지 않는 경우에 불이익이 발생할 수 있습니다.**  
+
+
+## Due Date
+2월 21일 (목) 자정까지 완료해주셔야 합니다. 2월21(목) 자정의 Commit 까지만 결과물로 인정됩니다.
 
 
 ## Guide
@@ -36,12 +39,12 @@ Image Classification with own dataset
 (ex)  
 <pre><code> test.py datasets/test mymodel.pth </code></pre>
 위와 같은 커맨드를 입력하였을 때, 학습된 모델의 테스트 결과가 나올 수 있도록 작성해주세요.  
-테스트 결과를 표출하는 형태에 대한 별도의 양식 및 규정은 존재하지 않습니다  
+테스트 결과를 표출하는 형태에 대한 별도의 양식 및 규정은 존재하지 않습니다.  
 
 
 ### models.py
 models.py 에는 train.py에서 사용할 모델이 포함되어 있도록 작성해주세요. (train.py 에서 import해서 사용)  
-프레임워크(tensorflow, pytorch, keras 등)에서 기본적으로 구현되어 있는 모델은 사용 불가합니다 (ex: torchvision.models.VGG)  
+프레임워크(tensorflow, pytorch, keras 등)에서 기본적으로 구현되어 있는 모델을 사용하시면 안됩니다. (ex: torchvision.models.VGG)  
 오픈소스를 사용하는 것은 가능합니다.  
 
 
